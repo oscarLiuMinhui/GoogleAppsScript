@@ -1,0 +1,18 @@
+{
+  "name": "shimaorestapireview1",
+  "description": "shimao rest api review 1",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
